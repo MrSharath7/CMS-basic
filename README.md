@@ -1,2 +1,2 @@
 # CMS-basic
-Customer Management System Web page using HTML and CSS
+Customer Management System simple Web page using HTML and CSS
